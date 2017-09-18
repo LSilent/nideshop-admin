@@ -1,4 +1,4 @@
-const rootUrl = 'http://127.0.0.1:8360/admin/';
+const rootUrl = 'http://120.27.17.184/admin/';
 
 const api = {
 
